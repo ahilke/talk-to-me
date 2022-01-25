@@ -1,2 +1,6 @@
 # Artifacts
+dist/
 node_modules/
+
+# Third Parties
+.DS_Store
